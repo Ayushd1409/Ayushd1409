@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **tikendra20040914@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EOvDsP5tDBoJpQbTMpxQC_CPdPDCeL6N/view?usp=sharing](https://drive.google.com/file/d/1EOvDsP5tDBoJpQbTMpxQC_CPdPDCeL6N/view?usp=sharing)
+- 📄 Know about my experiences [Updated_Resume.pdf](https://github.com/user-attachments/files/16315561/Updated_Resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
