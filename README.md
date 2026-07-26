@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/99_tikendra" target="blank"><img src="https://img.shields.io/twitter/follow/99_tikendra?logo=twitter&style=for-the-badge" alt="99_tikendra" /></a> </p>
 
-- 🔭 I’m currently working on React, Tailwind and Firebase Project **Realtor - Real State Application**
+- 🔭 I’m currently working on Web Based Fun Cards Characters of **Mahabharata** - Try mahabharata-by-ayush.vercel.app
 
 - 🌱 I’m currently learning **Data structures and Algorithms and Backend Technology**
 
